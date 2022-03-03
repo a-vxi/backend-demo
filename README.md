@@ -1,6 +1,6 @@
 # backend-demo
 
-this is my first project implementing a backend with nodejs
+this is my first projects implementing a backend with nodejs
 
 
 
